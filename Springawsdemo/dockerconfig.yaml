@@ -1,0 +1,6 @@
+version: "3"
+services:
+  dockerswarmdemo:
+    image: balamanikandanc/dockerswarmdemo
+    ports:
+      - "8084:8084"
